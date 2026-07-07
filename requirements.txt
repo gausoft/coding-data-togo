@@ -13,7 +13,7 @@ cryptography==48.0.1
 cssselect==1.0.3
 cycler==0.10.0
 docopt==0.6.2
-fastapi==0.54.1
+fastapi==0.109.1
 h11==0.16.0
 httptools==0.1.1
 hyperlink==19.0.0
