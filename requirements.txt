@@ -37,7 +37,7 @@ pycparser==2.19
 pydantic==1.5.1
 PyDispatcher==2.0.5
 PyHamcrest==2.0.2
-pyOpenSSL==19.1.0
+pyOpenSSL==26.0.0
 pyparsing==2.4.2
 pytest==5.4.1
 python-dateutil==2.8.0
